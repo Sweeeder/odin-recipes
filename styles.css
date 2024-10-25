@@ -1,0 +1,36 @@
+body {
+    background: #eee;
+    font-family: sans-serif;
+  }
+
+.title{
+    text-align: center;
+}
+
+.recipe-list{
+    height: 500px;
+    width: 300px;
+    text-align: center;
+    margin: 10px auto;
+    background: white;
+    box-sizing: border-box;
+    padding: 30px
+}
+
+.lasagna{
+    display: inline-block;
+    margin: 10px;
+    background: red;
+}
+
+.chicken{
+    display: block;
+    margin: 10px;
+    background:rgb(252, 162, 44)
+}
+
+.dogbowl{
+    display: block;
+    margin: 10px;
+    background:rgb(184, 118, 32)
+}
